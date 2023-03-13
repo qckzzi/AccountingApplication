@@ -1,7 +1,10 @@
 # **AccountingApplication**
 **Windows Forms application for accounting of clients of the organization. Designed for self-study.**
 
-To run this application, you will need to modify the DataSet to display records from the database in the DataGridView. Also, in the DBConnect class, you must specify the data of your database to connect the application to it.
+## To run this application:
+**1)** you need to run a script.sql to create tables in your database in order to create an identical copy of the database to work with the application;
+**2)** you will need to modify the DataSet to display records from the database in the DataGridView;
+**3)** in the DBConnect class, you must specify your database data to connect the application to it.
 
 **IDE: Microsoft Visual Studio**
 
