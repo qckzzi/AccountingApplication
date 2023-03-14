@@ -15,9 +15,38 @@
 
 # Preview
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+
+**Authorization:**
 
 
-![image](https://github.com/qckzzi/AccountingApplication/blob/main/Desktop%202023.03.13%20-%2011.13.59.03%20(1).gif)
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/1.gif)
+
+
+**Pagination:**
+
+
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/2.gif)
+
+
+**Search and sort:**
+
+
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/3.gif)
+
+
+**Editing a сlient:**
+
+
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/4.gif)
+
+
+**Removing a сlient:**
+
+
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/5.gif)
+
+
+**Adding a client:**
+
+
+![image](https://github.com/qckzzi/AccountingApplication/blob/main/6.gif)
