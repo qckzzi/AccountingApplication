@@ -14,5 +14,5 @@
 **DBMS (СУБД): MS SQL**
 
 # Preview
-<font size="50">awdawd</font>
+<font size="7">awdawd</font>
 ![image](https://github.com/qckzzi/AccountingApplication/blob/main/Desktop%202023.03.13%20-%2011.13.59.03%20(1).gif)
